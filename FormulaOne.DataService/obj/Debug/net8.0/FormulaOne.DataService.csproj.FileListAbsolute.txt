@@ -1,0 +1,17 @@
+C:\FormulaOneDotnet\FormulaOne.DataService\bin\Debug\net8.0\FormulaOne.DataService.deps.json
+C:\FormulaOneDotnet\FormulaOne.DataService\bin\Debug\net8.0\FormulaOne.DataService.runtimeconfig.json
+C:\FormulaOneDotnet\FormulaOne.DataService\bin\Debug\net8.0\FormulaOne.DataService.dll
+C:\FormulaOneDotnet\FormulaOne.DataService\bin\Debug\net8.0\FormulaOne.DataService.pdb
+C:\FormulaOneDotnet\FormulaOne.DataService\bin\Debug\net8.0\FormulaOne.Entities.dll
+C:\FormulaOneDotnet\FormulaOne.DataService\bin\Debug\net8.0\FormulaOne.Entities.pdb
+C:\FormulaOneDotnet\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.csproj.AssemblyReference.cache
+C:\FormulaOneDotnet\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\FormulaOneDotnet\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.AssemblyInfoInputs.cache
+C:\FormulaOneDotnet\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.AssemblyInfo.cs
+C:\FormulaOneDotnet\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.csproj.CoreCompileInputs.cache
+C:\FormulaOneDotnet\FormulaOne.DataService\obj\Debug\net8.0\FormulaO.1F042CB4.Up2Date
+C:\FormulaOneDotnet\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.dll
+C:\FormulaOneDotnet\FormulaOne.DataService\obj\Debug\net8.0\refint\FormulaOne.DataService.dll
+C:\FormulaOneDotnet\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.pdb
+C:\FormulaOneDotnet\FormulaOne.DataService\obj\Debug\net8.0\FormulaOne.DataService.genruntimeconfig.cache
+C:\FormulaOneDotnet\FormulaOne.DataService\obj\Debug\net8.0\ref\FormulaOne.DataService.dll

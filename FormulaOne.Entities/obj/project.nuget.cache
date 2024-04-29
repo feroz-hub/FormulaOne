@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5xIj0Q6I7zBiwcB7J3Tcxzf6scAYEgpg3ALcHZxBK6QJHrpIRx7zrtQXB0TA7WorWhHT+lR5hYT+rvvDoc1+2Q==",
+  "success": true,
+  "projectFilePath": "C:\\FormulaOneDotnet\\FormulaOne.Entities\\FormulaOne.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferozebasha.s\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\ferozebasha.s\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\ferozebasha.s\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

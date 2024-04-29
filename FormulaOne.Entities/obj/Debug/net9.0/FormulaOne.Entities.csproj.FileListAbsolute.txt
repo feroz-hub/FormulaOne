@@ -1,0 +1,11 @@
+C:\FormulaOneDotnet\FormulaOne.Entities\bin\Debug\net9.0\FormulaOne.Entities.deps.json
+C:\FormulaOneDotnet\FormulaOne.Entities\bin\Debug\net9.0\FormulaOne.Entities.dll
+C:\FormulaOneDotnet\FormulaOne.Entities\bin\Debug\net9.0\FormulaOne.Entities.pdb
+C:\FormulaOneDotnet\FormulaOne.Entities\obj\Debug\net9.0\FormulaOne.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\FormulaOneDotnet\FormulaOne.Entities\obj\Debug\net9.0\FormulaOne.Entities.AssemblyInfoInputs.cache
+C:\FormulaOneDotnet\FormulaOne.Entities\obj\Debug\net9.0\FormulaOne.Entities.AssemblyInfo.cs
+C:\FormulaOneDotnet\FormulaOne.Entities\obj\Debug\net9.0\FormulaOne.Entities.csproj.CoreCompileInputs.cache
+C:\FormulaOneDotnet\FormulaOne.Entities\obj\Debug\net9.0\FormulaOne.Entities.dll
+C:\FormulaOneDotnet\FormulaOne.Entities\obj\Debug\net9.0\refint\FormulaOne.Entities.dll
+C:\FormulaOneDotnet\FormulaOne.Entities\obj\Debug\net9.0\FormulaOne.Entities.pdb
+C:\FormulaOneDotnet\FormulaOne.Entities\obj\Debug\net9.0\ref\FormulaOne.Entities.dll

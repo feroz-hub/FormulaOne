@@ -1,0 +1,11 @@
+C:\FormulaOneDotnet\FormulaOne.Service\bin\Debug\net8.0\FormulaOne.Service.deps.json
+C:\FormulaOneDotnet\FormulaOne.Service\bin\Debug\net8.0\FormulaOne.Service.dll
+C:\FormulaOneDotnet\FormulaOne.Service\bin\Debug\net8.0\FormulaOne.Service.pdb
+C:\FormulaOneDotnet\FormulaOne.Service\obj\Debug\net8.0\FormulaOne.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\FormulaOneDotnet\FormulaOne.Service\obj\Debug\net8.0\FormulaOne.Service.AssemblyInfoInputs.cache
+C:\FormulaOneDotnet\FormulaOne.Service\obj\Debug\net8.0\FormulaOne.Service.AssemblyInfo.cs
+C:\FormulaOneDotnet\FormulaOne.Service\obj\Debug\net8.0\FormulaOne.Service.csproj.CoreCompileInputs.cache
+C:\FormulaOneDotnet\FormulaOne.Service\obj\Debug\net8.0\FormulaOne.Service.dll
+C:\FormulaOneDotnet\FormulaOne.Service\obj\Debug\net8.0\refint\FormulaOne.Service.dll
+C:\FormulaOneDotnet\FormulaOne.Service\obj\Debug\net8.0\FormulaOne.Service.pdb
+C:\FormulaOneDotnet\FormulaOne.Service\obj\Debug\net8.0\ref\FormulaOne.Service.dll
